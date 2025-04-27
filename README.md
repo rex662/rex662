@@ -49,14 +49,6 @@
 
 ---
 
-### 📈 GitHub Stats:
-
-![Varnit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=varnitkumar&show_icons=true&theme=onedark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=varnitkumar&layout=compact&theme=onedark)
-
----
-
 ### 🧠 Areas of Current Focus:
 
 - ⚡ Training and optimizing deep neural networks with **JAX + Flax**.
@@ -82,6 +74,4 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/)
 
----
 
-> "Move fast, think deeply, compute faster." 🚀
