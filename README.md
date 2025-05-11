@@ -6,7 +6,7 @@
 
 ### 👨‍💻 About Me:
 
-- 🎓 Pursuing **B.Tech in Computer Science and Engineering** at **IIIT Guwahati**.
+- 🎓 Pursuing **B.Tech in Computer Science and Engineering** at **MITS Gwalior**.
 - 🤖 Passionate about **Deep Learning**, **Accelerated Computing**, and **AI Research**.
 - 🌱 Exploring **Neural Networks**, **Large Language Models (LLMs)**, **Computer Vision**, and **JAX** for high-performance ML.
 - ⚡ Skilled in optimizing machine learning workloads using **GPUs** and **TPUs**.
